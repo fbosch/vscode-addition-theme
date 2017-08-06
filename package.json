@@ -1,15 +1,22 @@
 {
-    "name": "theme-addition",
+    "name": "vscode-theme-addition",
     "displayName": "Addition Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "fbosch",
+    "keywords": [
+        "theme",
+        "addition",
+        "dark"
+    ],
     "engines": {
         "vscode": "^1.10.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/fbosch/vscode-addition-theme",
     "contributes": {
         "themes": [
             {

@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#3E3D32</string>
 				<key>selection</key>
-				<string>#000000</string>
+				<string>#525252</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DBA474</string>
+				<string>#CCA37E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -101,7 +101,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#37B19B</string>
+				<string>#8ABDC4</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,9 +127,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8ABDC4</string>
-				<key>fontStyle</key>
-				<string> italic</string>
+				<string>#37B19B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -139,6 +139,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#8ABDC4</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -148,8 +150,6 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic underline  </string>
 				<key>foreground</key>
 				<string>#8ABDC4</string>
 			</dict>
@@ -163,8 +163,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#37B19B</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -211,8 +209,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#65829D</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
