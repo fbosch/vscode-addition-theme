@@ -1,0 +1,22 @@
+{
+    "name": "theme-addition",
+    "displayName": "Addition Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "fbosch",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Addition",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Addition.tmTheme"
+            }
+        ]
+    }
+}
