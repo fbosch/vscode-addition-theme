@@ -1,0 +1,18 @@
+{
+  "name": "Addition",
+  "type": "dark",
+  "tokenColors": "./addition.tmTheme",
+  "colors": {
+      "activityBar.background": "#1A1A1A",
+      "activityBar.border": "#1A1A1A",
+      "activityBar.foreground": "#C2C2C2",
+      "activityBar.dropBackground": "#65829D",
+      "badge.background": "#37B19B",
+      "button.background": "#37B19B",
+      "activityBarBadge.background": "#37B19B"
+  },
+  "uuid": "D8D5E82E-3D5B-46B5-B38E-8C841C21347D",
+  "colorSpaceName": "sRGB",
+  "semanticClass": "theme.dark.addition",
+  "author": "Frederik Bosch"
+}
