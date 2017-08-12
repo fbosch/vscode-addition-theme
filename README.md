@@ -1,3 +1,3 @@
-# ![](https://res.cloudinary.com/discrobbler/image/upload/c_limit,w_26/v1502041462/green_plus_rf9evx.png) Addition Theme
+# ![](https://github.com/fBosch/vscode-addition-theme/blob/master/small-icon.png?raw=true) Addition Theme
 
-![](https://res.cloudinary.com/discrobbler/image/upload/v1502537594/screen_i5fbsp.png)
+![](https://github.com/fBosch/vscode-addition-theme/blob/master/screen.png?raw=true)
